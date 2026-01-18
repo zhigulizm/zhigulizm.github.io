@@ -3,3 +3,9 @@ languageCode = 'ru'
 DefaultContentLanguage = 'ru'
 title = 'Zhigulizm'
 theme = 'PaperMod'
+
+[params]
+  [params.Social]
+    # Add your social media handles here
+    # twitter = "your_twitter_handle"
+    # facebook_admin = "your_facebook_admin_id"
